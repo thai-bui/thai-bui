@@ -1,4 +1,4 @@
-# Hey Wassup!! 🤓
+# Hey Wassup!!
 
 This is my little corner of GitHub where I’m documenting my journey as a (soon) data analyst: projects I will be building, experiments I will be trying, and the things I’m learning along the way.
 
